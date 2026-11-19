@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "android": {
-    "version": "1.6.1",
-    "versionCode": 22,
-    "url": "https://github.com/Garuka-Perera/musify-releases/releases/download/android-v1.6.1/Musify-Android-1.6.1.apk",
-    "notes": "Playback caching, upcoming-song preloading, player customization, widgets and background playback improvements.",
-    "sha256": "7ae7b7de4f41881b55cb350d0937a207154808565993b304628b841dc4f8a76e"
+    "version": "1.6.3",
+    "versionCode": 24,
+    "url": "https://github.com/Garuka-Perera/musify-releases/releases/download/android-v1.6.3/Musify-Android-1.6.3.apk",
+    "notes": "Fast-start playback by default, improved playback request scheduling, YouTube Music playlist imports, and Spotify CSV/JSON playlist imports with matching and review.",
+    "sha256": "e63805e55864a92f0bf0a3ce9fa114e8640d532e9b612a312a45844b8a5df3bf"
   }
 }
